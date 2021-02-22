@@ -168,12 +168,12 @@ body {
 .intro__title {
     font-size: 3.125rem /* 50/16 */;
     line-height: 3.75rem /* 60/16 */;
-    width: 619px;
+    max-width: 619px;
     margin-bottom: 22px;
 }
 
 .intro__content-text {
-    width: 546px;
+    max-width: 546px;
     line-height: 1.5rem /* 24/16 */;
     margin-bottom: 59px;
 }
